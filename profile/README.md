@@ -17,3 +17,18 @@ IoT 공유 쓰레기통과 QR을 접목하여 사용자에게 지속가능한 �
 
 ## 🖥️ 주요 서비스 및 화면
 
+### 1. 메인 & 에코뉴스
+<img src="https://github.com/MODUMOA/.github/assets/76652908/38816500-d3cf-49e5-9da7-8c117d8ef120" width=250>
+<img src="https://github.com/MODUMOA/.github/assets/76652908/cbd8f769-0d06-4234-bd38-fb8a50152efa" width=250>
+
+### 2. 나무도감 & 공지사항
+<img src="https://github.com/MODUMOA/.github/assets/76652908/b7b15672-43ce-427d-902c-bad1d827891c" width=250>
+<img src="https://github.com/MODUMOA/.github/assets/76652908/e9df56f5-faaf-4885-b445-0d2b385fa3dd" width=250>
+
+### 3. QR & 코드 배출
+<img src="https://github.com/MODUMOA/.github/assets/76652908/26198ef4-db88-4f27-bd72-d15ce4b98a5f" width=250>
+<img src="https://github.com/MODUMOA/.github/assets/76652908/e1c89daa-84a0-4062-a5c7-0c750055b58e" width=250>
+
+### 4. 배출 현황 & 결제화면
+<img src="https://github.com/MODUMOA/.github/assets/76652908/950ce8f5-394d-40fb-a147-48b8cdd43a76" width=250>
+<img src="https://github.com/MODUMOA/.github/assets/76652908/9a50c125-dfe6-49a3-a965-491bfe78264d" width=250>
