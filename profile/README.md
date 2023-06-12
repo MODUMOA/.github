@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonRDS&logoColor=white">
 
 ## 📋 서비스 소개
-서울시 원룸촌의 쓰레기 분리배출 문제를 개선하기 위한 서비스
+서울시 원룸촌의 쓰레기 분리배출 문제를 개선하기 위한 서비스 <br/>
 IoT 공유 쓰레기통과 QR을 접목하여 사용자에게 지속가능한 교육과 기능을 제공
 
 ## 🖥️ 주요 서비스 및 화면
